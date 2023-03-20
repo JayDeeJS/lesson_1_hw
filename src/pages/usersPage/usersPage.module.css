@@ -1,0 +1,24 @@
+.pageInfo {
+    border-radius: 30px;
+    margin: 0 auto 10px auto;
+    width: 95%;
+    height: auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.pageUsers {
+    outline: 1px solid navajowhite;
+    width: 30%;
+    height: auto;
+    margin: 10px;
+}
+
+.pageUsers__address {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-evenly;
+}
